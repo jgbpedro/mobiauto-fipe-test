@@ -4,7 +4,7 @@
 
 ```sh
 
-npm install && cd ios pod install && cd
+npm install && cd ios pod install && cd ..
 
 ```
 
